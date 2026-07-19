@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 ## The Other Site
-Find me [here](https://coldcaches.github.io).
+Find me [here](https://vmah1ndra.github.io/coldcaches).
 
 ## Posts
 
