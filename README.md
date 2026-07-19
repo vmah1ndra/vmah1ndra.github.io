@@ -1,4 +1,7 @@
 ## Complacency is for the week
+
+Read the [blog](https://vmah1ndra.github.io).
+Or read a [story](https://coldcaches.github.io).
 <!--
 **vmah1ndra/vmah1ndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
