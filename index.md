@@ -2,6 +2,9 @@
 title: "Home"
 ---
 
+## The Other Site
+Find me [here](https://coldcaches.github.io).
+
 ## Posts
 
 <ul>
