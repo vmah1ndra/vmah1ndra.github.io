@@ -1,5 +1,4 @@
-## seCure for the Itch 🔭
-
+## Complacency is for the week
 <!--
 **vmah1ndra/vmah1ndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
