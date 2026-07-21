@@ -5,8 +5,8 @@ title: "Home"
 ## The Other Site
 Find me [here](https://vmah1ndra.github.io/coldcaches).
 
-## Posts
-
+<details>
+  <summary>## Posts</summary>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -14,6 +14,8 @@ Find me [here](https://vmah1ndra.github.io/coldcaches).
     </li>
   {% endfor %}
 </ul>
+</details>
+
 
 ## Tags
 
