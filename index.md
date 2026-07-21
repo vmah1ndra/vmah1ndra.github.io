@@ -7,8 +7,7 @@ Find me [here](https://vmah1ndra.github.io/coldcaches).
 
 ## Posts
 
-<details>
-  <summary><h5>All Posts</h5></summary>
+<details><summary><h3>All Posts</h3></summary>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -19,11 +18,9 @@ Find me [here](https://vmah1ndra.github.io/coldcaches).
 </details>
 
 ## Tags
-<details>
-  <summary><h5>All Tags</h5></summary>
+<details><summary><h3>All Tags ({{ site.tags | size }})</h3></summary>
 {% for tag in site.tags %}
-  <details>
-  <summary><h3>{{ tag[0] }}</h3></summary>
+  <details><summary><h5>{{ tag[0] }} ({{ tag[1] | size }})</h5></summary>
   <ul>
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
